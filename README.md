@@ -2,7 +2,7 @@
 
 A discipline tracker in two levels, 500 days in total.
 
-Log two things each night — whether you stayed clean, and your iPhone screen time.
+Log two things each night — whether you stayed clean (NoFap), and your iPhone screen time.
 **Level 1** maps 250 days onto 250 years of American history and assembles the United
 States state by state, in the order each one actually joined the Union. **Level 2** opens
 on day 250 and lights up fifty American inventions, from Franklin's lightning rod in 1752
